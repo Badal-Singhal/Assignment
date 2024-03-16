@@ -274,14 +274,14 @@ input[type="password"] {
 
 .blockGrid {
   padding: 15px;
-  margin: 150px;
+  margin: 100px;
    display: flex;
    flex-wrap: wrap;
    justify-content:space-between;
 }
 
 .block {
-  width: 700px;
+  width: 500px;
   height: 297px;
   padding: 30px;
   border: 1px solid #ccc;
